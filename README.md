@@ -206,10 +206,10 @@ Automated pivot generation for flexible analysis.
 ## 📂 Project Structure
 
 ```
-Uber-Data-Analysis/
-│── Uber_Analysis_Navneet_Prajapati.ipynb
-│── Dataset Files
+uber-data-analysis-python/
 │── README.md
+│── uber-data-analysis.ipynb
+│── uber-raw-data-janjune-15_sample.csv
 ```
 
 ---
